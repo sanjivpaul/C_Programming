@@ -56,3 +56,11 @@ int main(){
     * 3.character constants ( 'a', 'A', '$', '#', '&') 
    
    
+   
+
+* 1.4 **Comments**
+  >Comments are statements that are not executed by the compiler and interpreter.
+  * Lines that are not part of programe:
+    * 1.single line comment (// single line comments)
+    * 2.multi line comments (/* multi line comments*/)
+   
