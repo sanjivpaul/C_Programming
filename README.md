@@ -63,4 +63,17 @@ int main(){
   * Lines that are not part of programe:
     * 1.single line comment (// single line comments)
     * 2.multi line comments (/* multi line comments*/)
+  
+  
+
+* 1.5 **C Programme structure**
+```c
+#include <stdio.h> // pre-processor director
+
+int main()
+{
+    printf("Hello world"); // code
+    return 0;
+}
+```
    
