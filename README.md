@@ -4,7 +4,7 @@
 1.Chapter 01
 
 ## Chapter 01
-* 1.1 **Variables**
+* 1.1 **Variables:**
   >Variable is the name of a memory location which store some data.
   * variable rules:
     * a. variables are case sensitive.(like javascript).
@@ -42,13 +42,13 @@ int main(){
 ```
 
 
-* 1.2 **Keywords**
+* 1.2 **Keywords:**
   >Reserved words that have special meaning to the compiler
   * 32 keywords in C 
 
 
 
-* 1.3 **Constants**
+* 1.3 **Constants:**
   >which cannot be modified once they are defined, values that don't change (fixed).
   * Types of constants:
     * 1.int constants (1, 2, 5, 8, 0, -6, -7)
@@ -58,7 +58,7 @@ int main(){
    
    
 
-* 1.4 **Comments**
+* 1.4 **Comments:**
   >Comments are statements that are not executed by the compiler and interpreter.
   * Lines that are not part of programe:
     * 1.single line comment (// single line comments)
@@ -66,7 +66,7 @@ int main(){
   
   
 
-* 1.5 **C Programme structure**
+* 1.5 **C Programme structure:**
 ```c
 #include <stdio.h> // pre-processor director
 
@@ -76,4 +76,6 @@ int main()
     return 0;
 }
 ```
+
+* 1.6 **Compilation:**
    
